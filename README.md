@@ -1,16 +1,115 @@
-## Hi there 👋
+# Hi, I'm Daffa Hafizh Firdaus 👋
 
-<!--
-**sicoding1120/sicoding1120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer • Computer Science Student • Technology Enthusiast
 
-Here are some ideas to get you started:
+I enjoy building things, exploring how systems work, and turning ideas into working software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently focused on **web development, backend engineering, and modern JavaScript/TypeScript ecosystems**, while continuously exploring other technologies and programming paradigms.
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,go,cpp,python" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,next,tailwind" />
+</p>
+
+### Backend & Runtime
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,bun,nest,elysia" />
+</p>
+
+### Database & ORM
+
+<p>
+  <img src="https://skillicons.dev/icons?i=prisma" />
+  <img src="https://skillicons.dev/icons?i=drizzle" />
+</p>
+
+---
+
+## Development Environment
+
+### IDE & Editors
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,sublime,androidstudio" />
+</p>
+
+| Tool                   | Usage                                 |
+| ---------------------- | ------------------------------------- |
+| **Visual Studio Code** | Main development environment          |
+| **Sublime Text**       | Lightweight editor & quick editing    |
+| **Android Studio**     | Android development & mobile projects |
+
+---
+
+## My Current Stack
+
+```text
+Frontend       → React • Vite • Next.js • Tailwind CSS
+Backend        → Node.js • Express.js • NestJS • ElysiaJS • Bun
+Database       → Prisma ORM • Drizzle ORM
+Languages      → JavaScript • TypeScript • Python • Go • C++
+Fundamentals   → HTML • CSS
+IDE / Editor   → VS Code • Sublime Text • Android Studio
+```
+
+---
+
+## What I Like to Build
+
+* Web applications
+* REST APIs
+* Backend services
+* Full-stack applications
+* Developer tools
+* Automation systems
+* AI-powered applications
+* Experimental projects
+
+---
+
+## Development Philosophy
+
+> **Understand the problem → Design the solution → Build → Test → Improve**
+
+I don't want to only learn how to use a technology.
+I want to understand **why it exists, how it works, and when it should be used.**
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" height="165"/>
+</p>
+
+---
+
+## Let's Connect
+
+<p>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building, learning, breaking things, and building them better.</i>
+</p>
