@@ -37,7 +37,7 @@ I'm currently focused on **web development, backend engineering, and modern Java
 ### Database & Backend Services
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase" />
 </p>
 
 ### ORM
@@ -56,6 +56,12 @@ I'm currently focused on **web development, backend engineering, and modern Java
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,docker" />
+</p>
+
+### API & Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,insomnia" />
 </p>
 ---
 
