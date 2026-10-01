@@ -13,7 +13,7 @@ I'm currently focused on **web development, backend engineering, and modern Java
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,go,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,go,cpp,python" />
 </p>
 
 ### Frontend
@@ -28,11 +28,22 @@ I'm currently focused on **web development, backend engineering, and modern Java
   <img src="https://skillicons.dev/icons?i=nodejs,express,bun,nest,elysia" />
 </p>
 
-### Database & ORM
+### Mobile
 
 <p>
-  <img src="https://skillicons.dev/icons?i=prisma" />
-  <img src="https://skillicons.dev/icons?i=drizzle" />
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio" />
+</p>
+
+### Database & Backend Services
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase" />
+</p>
+
+### ORM
+
+<p>
+  <img src="https://skillicons.dev/icons?i=prisma,drizzle" />
 </p>
 
 ---
@@ -45,22 +56,29 @@ I'm currently focused on **web development, backend engineering, and modern Java
   <img src="https://skillicons.dev/icons?i=vscode,sublime,androidstudio" />
 </p>
 
-| Tool                   | Usage                                 |
-| ---------------------- | ------------------------------------- |
-| **Visual Studio Code** | Main development environment          |
-| **Sublime Text**       | Lightweight editor & quick editing    |
-| **Android Studio**     | Android development & mobile projects |
+| Tool                   | Usage                              |
+| ---------------------- | ---------------------------------- |
+| **Visual Studio Code** | Main development environment       |
+| **Sublime Text**       | Lightweight editor & quick editing |
+| **Android Studio**     | Android & Flutter development      |
 
 ---
 
 ## My Current Stack
 
 ```text
+Languages      → HTML • CSS • Sass • JavaScript • TypeScript • Python • Go • C++
+
 Frontend       → React • Vite • Next.js • Tailwind CSS
+
 Backend        → Node.js • Express.js • NestJS • ElysiaJS • Bun
-Database       → Prisma ORM • Drizzle ORM
-Languages      → JavaScript • TypeScript • Python • Go • C++
-Fundamentals   → HTML • CSS
+
+Mobile         → Flutter
+
+Database       → MongoDB • MySQL • Supabase
+
+ORM            → Prisma ORM • Drizzle ORM
+
 IDE / Editor   → VS Code • Sublime Text • Android Studio
 ```
 
@@ -69,9 +87,10 @@ IDE / Editor   → VS Code • Sublime Text • Android Studio
 ## What I Like to Build
 
 * Web applications
+* Full-stack applications
 * REST APIs
 * Backend services
-* Full-stack applications
+* Mobile applications
 * Developer tools
 * Automation systems
 * AI-powered applications
