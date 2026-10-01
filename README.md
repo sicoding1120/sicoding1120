@@ -51,6 +51,12 @@ I'm currently focused on **web development, backend engineering, and modern Java
 <p>
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
+
+### Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker" />
+</p>
 ---
 
 ## Development Environment
